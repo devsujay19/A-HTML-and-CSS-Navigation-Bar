@@ -4,4 +4,4 @@ How To Create A Navigation Bar Using HTML and CSS.
    The JavaScript is for that.
     View and Check it to find bug on it and inform me in the comments below.
      And also write your name.
-      by : Sujay Mukherjee...
+      by : Sujay Mukherjee..
