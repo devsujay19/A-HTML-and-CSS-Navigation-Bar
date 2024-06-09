@@ -30,7 +30,7 @@
     font-size: 41px;
     font-weight: bold;
     line-height: 70px;
-    color: gold;
+    color: gray;
     user-select: none;
   }
   nav ul {
@@ -41,7 +41,7 @@
     display: inline-block;
   }
   nav ul li a {
-    color: white;
+    color: red;
     display: block;
     padding: 0 15px;
     line-height: 70px;
